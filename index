@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Civil Engagement Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Civil Engagement Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="sources.html">Sources</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>The debate surrounding the monitoring and regulation of the Internet is complex and multifaceted. This website explores the various arguments for and against regulation, considering the implications for safety, privacy, and free speech.</p>
+
+            <h2>Arguments for Monitoring and Regulation</h2>
+            <ul>
+                <li><strong>Safety and Security:</strong> Preventing illegal activities and establishing security standards.</li>
+                <li><strong>Protecting Vulnerable Populations:</strong> Safeguarding children from harmful content.</li>
+                <li><strong>Ensuring Fairness and Competition:</strong> Preventing monopolistic practices in the tech industry.</li>
+                <li><strong>Accountability:</strong> Holding companies responsible for data usage and content.</li>
+            </ul>
+
+            <h2>Arguments Against Monitoring and Regulation</h2>
+            <ul>
+                <li><strong>Free Speech Concerns:</strong> Risks of infringing on individuals' rights to express themselves.</li>
+                <li><strong>Privacy Issues:</strong> Potential invasions of personal privacy.</li>
+                <li><strong>Innovation Stifling:</strong> Over-regulation hindering new ideas.</li>
+                <li><strong>Definitional Challenges:</strong> Difficulty in establishing universal standards.</li>
+            </ul>
+
+            <h2>Who Should Regulate?</h2>
+            <p>Regulation can involve government agencies, independent bodies, and even industry self-regulation, each with its own benefits and challenges.</p>
+
+            <h2>Conclusion</h2>
+            <p>The balance between safety and individual freedoms is crucial in the discussion of Internet regulation. A collaborative approach may offer the best path forward.</p>
+        </section>
+    </main>
+    </footer>
+</body>
+</html>
